@@ -1,0 +1,16 @@
+Ruby Basics:
+	-dynamic
+	-everything is an object
+
+* 2 space indentation is encouraged.
+* # is used for comment
+* Everything is evaluated
+	puts 5 # print 5
+	3 # evaluated as an integer
+
+Naming Convention:
+	Variables : lowercase or snake_case
+	Constants : ALL_CAPS or AllCaps
+	Classes or Modules : CamelCase	
+
+
